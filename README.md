@@ -1,6 +1,6 @@
 # NHS UK Component Library
 
-Proof of concept built using https://pypi.org/project/django-slots/
+Proof of concept https://service-manual.nhs.uk/design-system/components built using https://pypi.org/project/django-slots/
 
 ## Install
 
