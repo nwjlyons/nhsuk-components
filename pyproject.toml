@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nhsuk_componets"
+name = "nhsuk_components"
 version = "0.1.0"
 description = ""
 authors = ["Neil Lyons <nwjlyons@googlemail.com>"]
